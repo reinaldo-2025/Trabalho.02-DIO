@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para um organizador de declaração de imposto de renda feito no Excel:
-
----
-
 # 📊 Organizador de Declaração de Imposto de Renda - Excel  
 
 Este projeto é uma ferramenta desenvolvida no Microsoft Excel para facilitar o controle e a organização das informações necessárias para a declaração do Imposto de Renda.  
