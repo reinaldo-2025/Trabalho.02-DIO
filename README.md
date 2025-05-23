@@ -6,8 +6,7 @@ Este projeto é uma ferramenta desenvolvida no Microsoft Excel para facilitar o 
 
 - Registro detalhado de rendimentos, despesas dedutíveis e investimentos  
 - Cálculo automático dos valores a declarar  
-- Organização dos documentos e comprovantes fiscais  
-- Gráficos e relatórios para análise financeira  
+- Organização dos documentos e comprovantes fiscais    
 - Facilitação do preenchimento da declaração no sistema da Receita Federal  
 
 ## 🚀 Como Usar  
